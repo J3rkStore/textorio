@@ -9,12 +9,8 @@ PWA text editor
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Credits](#credits)
-- [Tests](#tests)
-- [Contributing](#contributing)
 - [Questions](#questions)
 
 ## Usage

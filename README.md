@@ -5,7 +5,10 @@ Text editor progressive web app
 
 ## Description
 
-PWA text editor
+PWA text editor built to practice progressive web applications
+
+![image](https://github.com/J3rkStore/textorio/assets/59859758/98bb6e9a-28ea-491a-b680-2c184ab24bac)
+
 
 ## Table of Contents
 
